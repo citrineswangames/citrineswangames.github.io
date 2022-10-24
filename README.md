@@ -1,4 +1,3 @@
-# isabelanardi.github.io
-My CV website
-This a simple CV website focused on researchers. 
-It is developed in HTML, CSS and JavaScript.
+# citrineswangames.github.io
+
+It is a prototype for a web games website I am producing to display my portfolio and games I do for fun.
